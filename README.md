@@ -69,8 +69,8 @@ Predicted Class: Iris-viginica
 
 ```
 iris_project/
-├── iris.csv
-├── iris_decision_tree.ipynb
+├── Iris.csv
+├── file.ipynb
 └── README.md
 ```
 
