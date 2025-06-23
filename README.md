@@ -74,11 +74,13 @@ iris_project/
 └── README.md
 ```
 
-## 👨‍💻 Author
+## 👩‍💻 About the Creator
 
-- [Your Name](#)
-- [GitHub](#)
+This project was created by **Avneet Kaur**, a passionate developer and student specializing in Web Development, AI/ML, and Software Engineering.
 
-## 📝 License
+- 💻 Experienced with: React.js, Python, Node.js, and more
+- 🌱 Currently exploring: AI applications in real-world projects
 
-This project is open-source and available under the MIT License.
+Feel free to connect with me:
+- 🌐 [Portfolio](https://avneet-kaur.framer.website)
+- 💼 [LinkedIn](https://linkedin.com/in/avneet-kaur2)
